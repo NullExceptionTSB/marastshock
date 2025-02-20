@@ -27,4 +27,4 @@ Fear not, for I have a solution! Introducing **MarastShock**, a MARAST/PiShock i
   MarastShock logs everything into the JavaScript console. You can use these error messages for debugging. If that fails, make a GitHub Issue and specify your error code.
 
 # Disclaimer
-  Please follow [PiShock's safety guide](https://pishock.com/#/safety-section). I am not responsible for any injury caused by this script.
+  Please follow [PiShock's safety guide](https://pishock.com/). I am not responsible for any injury caused by this script.
