@@ -3,7 +3,7 @@ Do you lack motivation to do the endless MARAST quizzes thrown at you by KAM and
 Fear not, for I have a solution! Introducing **MarastShock**, a MARAST/PiShock integration script. Every time you answer incorrectly, you get shocked!
 
 # Install guide
-## 1. Download your favourite Greasemonkey compatible UserAgent extension
+## 1. Download your favourite Greasemonkey compatible userscript extension
   If you do not have one, use [Violentmonkey](https://violentmonkey.github.io/), available for all the relevant web browsers and Microsoft Edge.
 ## 2. Install the MarastShock script
   In general, you'll need to install MarastShock from this URL: `https://raw.githubusercontent.com/NullExceptionTSB/marastshock/refs/heads/master/marastshock.js?token=GHSAT0AAAAAAC7BTJMQJBPXONNCMX5YT4SYZ5XNWVQ`
